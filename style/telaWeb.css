@@ -84,11 +84,11 @@ img{
 }
 #usuarioIcon{
     position: relative;
-    top: 21vh;
-    left: -12vw;
+    top: 17vh;
+    left: -52%;
 }
 #senhaIcon{
     position: relative;
-    top: 18vh;
-    left: -12vw;
+    top: 14vh;
+    left: -52%;
 }
